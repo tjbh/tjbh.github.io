@@ -2,14 +2,10 @@
 Not sure what's going to be here. Right now its just another cookie-cutter GitHub page using the [hacker theme](https://github.com/pages-themes/hacker).
 
 ### Posts
-<ul>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      * [{{ post.title }}]({{ post.url }})
       {{ post.excerpt }}
-    </li>
   {% endfor %}
-</ul>
 
 ### Contact
 
