@@ -1,5 +1,5 @@
 ## Welcome to my portfolio site.
-Not sure what's going to be here. Right now its just another cookie cutter hack-theme hosted on GitHub pages.
+Not sure what's going to be here. Right now its just another cookie-cutter GitHub page using the [hacker theme](https://github.com/pages-themes/hacker).
 
 ### Contact
 
